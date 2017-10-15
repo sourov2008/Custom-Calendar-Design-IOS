@@ -1,5 +1,3 @@
 # Custom-Calendar-Design-IOS
 
-![ScreenShot](https://{https://github.com/sourov2008/Custom-Calendar-Design-IOS/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202017-10-16%20at%2002.32.04.png
-})
-
+![simulator screen shot - iphone 8 plus - 2017-10-16 at 02 32 04](https://user-images.githubusercontent.com/4990835/31589260-88b9e918-b220-11e7-832d-cf2f8426258b.png)
